@@ -1,0 +1,9 @@
+D:\Projects\Demo_Soft\Kaleidoscope\bin\Debug\Kaleidoscope.exe.config
+D:\Projects\Demo_Soft\Kaleidoscope\bin\Debug\Kaleidoscope.exe
+D:\Projects\Demo_Soft\Kaleidoscope\bin\Debug\Kaleidoscope.pdb
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.csprojResolveAssemblyReference.cache
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.FormMain.resources
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.Properties.Resources.resources
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.csproj.GenerateResource.Cache
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.exe
+D:\Projects\Demo_Soft\Kaleidoscope\obj\Debug\Kaleidoscope.pdb
