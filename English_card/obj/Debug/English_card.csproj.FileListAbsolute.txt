@@ -1,0 +1,15 @@
+D:\Projects\English_card\bin\Debug\English_card.exe.config
+D:\Projects\Demo_soft\English_card\bin\Debug\English_card.exe.config
+D:\Projects\Demo_soft\English_card\bin\Debug\English_card.exe
+D:\Projects\Demo_soft\English_card\bin\Debug\English_card.pdb
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.csprojResolveAssemblyReference.cache
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.FormMain.resources
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.Properties.Resources.resources
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.csproj.GenerateResource.Cache
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.exe
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.pdb
+D:\Projects\Demo_soft\English_card\bin\Debug\Interop.WMPLib.dll
+D:\Projects\Demo_soft\English_card\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\Demo_soft\English_card\obj\Debug\Interop.WMPLib.dll
+D:\Projects\Demo_soft\English_card\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\Demo_soft\English_card\obj\Debug\English_card.csproj.ResolveComReference.cache

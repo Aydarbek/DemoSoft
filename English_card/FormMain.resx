@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="player.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtwAAAAIB
+        AAAAAQAAAAAAAAAAAAAAAKIAAAAAAwAACAAAAAAABQAAAAAAAADwPwMAAAAAAAUAAAAAAAAAAAAIAAIA
+        AAAAAAMAAQAAAAsA//8DAAAAAAALAP//CAACAAAAAAADADIAAAALAAAACAAKAAAAZgB1AGwAbAAAAAsA
+        AAALAAAACwD//wsA//8LAAAACAACAAAAAAAIAAIAAAAAAAgAAgAAAAAACAACAAAAAAALAAAAwAcAAGEC
+        AAAL
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAQEAAAAEAGAAoMgAAFgAAACgAAABAAAAAgAAAAAEAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD/////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD/////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////////////////////////////////////////////////////+Hh4cAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoaGj/////////////////////
+        //////////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD////////////////////////////////////////////////////////////////39/dgYGAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AABoaGj///////////////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////////////////////////////+Hh4cAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAABoaGj/////////////////////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD////////////////////////////////////////////3
+        9/dgYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICCfn5//////////////////////////////////
+        //////////////+3t7cgICAAAAAAAAAAAAAAAAAAAAAAAAAAAABoaGj/////////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        //////////+Hh4cAAAAAAAAAAAAAAAAAAAAAAAAgICCXl5f/////////////////////////////////
+        //////////////////////////////////////////+3t7cgICAAAAAAAAAAAAAAAAAAAAAAAABoaGj/
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////////+Hh4cAAAAAAAAAAAAAAAAgICCfn5//////////////////////////////
+        //////////////////////////////////////////////////////////////////+3t7cgICAAAAAA
+        AAAAAAAAAAAAAAD///////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////////+Hh4cAAAAAAAAAAAAICAiXl5f/////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////+3t7cgICAAAAAAAAAAAABoaGj///////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////+Hh4cAAAAAAAAAAAAICAifn5//////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////8YGBgAAAAAAAAAAAD/////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8ICAgAAAAAAAAICAif
+        n5//////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////+3t7cQEBAAAAAICAj/////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8A
+        AAAAAAAAAACfn5//////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////+3t7dAQECf
+        n5////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////8AAAAAAAAAAAD/////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////8AAAAAAAAAAAD/////////////////////////////////////
+        //////+Hh4cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoaGj///////////+Hh4cAAAAAAABoaGj/
+        //////////////////////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////8AAAAAAAAAAAD/////////////////////
+        //////////////+Hh4cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ODgAAAAA
+        AAAAAAAAAAAAAAAAAABoaGj/////////////////////////////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8AAAAAAAAAAAD/////
+        //////////////////////////+Hh4cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYWFj39/f/////////////////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8A
+        AAAAAAAAAAD///////////////////////////////8ICAgAAAAAAAAAAAAgICCfn5//////////////
+        //////+3t7cgICAAAAAAAAAAAAAAAAAAAAAgICAgICAAAAAAAAAAAAAAAAAAAABoaGj/////////////
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////8AAAAAAAAAAAD///////////////////////////////8AAAAAAAAAAACfn5//////
+        //////////////////////////////9gYGAAAAAAAAAAAABAQED///////+3t7cgICAAAAAAAAAAAAAA
+        AABYWFj39/f///////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////8AAAAAAAAAAAD///////////////////////////////8AAAAA
+        AAAAAAD///////////////////////////////////////8ICAgAAAAAAAAAAAAAAAD/////////////
+        //+fn58QEBAAAAAAAAAAAABYWFj///////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////8AAAAAAAAAAAD/////////////////////
+        //////////8AAAAAAAAAAAD///////////////////////////////////////8AAAAAAAAAAAAAAAAA
+        AAD///////////////////+3t7cgICAAAAAAAAAAAAD39/f/////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8AAAAAAAAAAAD/////
+        //////////////////////////8AAAAAAAAAAAD///////////////////////////////////////8A
+        AAAAAAAAAAAAAAAAAABoaGj///////////////////////8YGBgAAAAAAABYWFj/////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////8A
+        AAAAAAAAAAD///////////////////////////////8AAAAAAAAAAAD/////////////////////////
+        //////////////8AAAAAAAAAAAAAAAAAAAAAAAD///////////////////////+Xl5cAAAAAAAAAAAD/
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////8AAAAAAAAAAABoaGj///////////////////////////8AAAAAAAAAAAD/////////
+        //////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////
+        //8AAAAAAAAAAAD39/f///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////8YGBgAAAAAAAAAAAD///////////////////////////8AAAAA
+        AAAAAAD///////////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAD/////////
+        //////////////////8YGBgAAAAAAABYWFj///////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////+3t7cAAAAAAAAAAAD/////////////////
+        //////////8AAAAAAAAAAAD///////////////////////////////////////8AAAAAAAAAAAAAAAAA
+        AAAAAAD///////////////////////////+Xl5cAAAAAAAAAAAD/////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////////8AAAAAAAAAAAD/
+        //////////////////////////8AAAAAAAAAAABoaGj///////////////////////////////////8A
+        AAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////8AAAAAAAAAAAD/////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        //8AAAAAAAAAAAD///////////////////////////8YGBgAAAAAAAAAAAD/////////////////////
+        //////////////8YGBgAAAAAAAAAAAAAAAAAAAD///////////////////////////////8AAAAAAAAA
+        AAD///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////8AAAAAAAAAAAD///////////////////////////+3t7cAAAAAAAAAAAD/////
+        //////////////////////////////+Xl5cAAAAAAAAAAAAAAAAICAj/////////////////////////
+        //////8AAAAAAAAAAAD///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////////8AAAAAAAAAAAD///////////////////////////////8A
+        AAAAAAAAAABoaGj///////////////////////////////////8YGBgAAAAAAAAICAifn5//////////
+        //////////////////////8AAAAAAAAAAAD///////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////////8AAAAAAAAAAABoaGj/////////////
+        //////////////8YGBgAAAAAAAAAAAD39/f///////////////////////////////+3t7cgICAgICCf
+        n5////////////////////////////////////8AAAAAAAAAAAD/////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////////8YGBgAAAAAAAAA
+        AAD///////////////////////////+3t7cQEBAAAAAAAABISEj39/f/////////////////////////
+        //+Hh4cAAABoaGj///////////////////////////////////////8AAAAAAAAAAAD/////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        //+3t7cAAAAAAAAAAAD///////////////////////////////+Xl5cAAAAAAAAAAAAAAABYWFj39/f/
+        //////////////+Hh4cAAAAAAAAAAAD///////////////////////////////////////8AAAAAAAAA
+        AAD///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////////8AAAAAAAAAAABoaGj///////////////////////////////9/f38AAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAj/////////////////////////////////
+        //////8AAAAAAAAAAAD///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////////////8YGBgAAAAAAAAAAAD/////////////////////////
+        //////////+fn58gICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAifn5//////////////////
+        //////////////////////8AAAAAAAAAAAD///////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////////////+3t7cAAAAAAAAAAABoaGj/////
+        //////////////////////////////////+fn58gICAAAAAAAAAAAAAAAAAAAAAAAAAgICCfn5//////
+        //////////////////////////////////////8AAAAAAAAAAAD/////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD///////////////////////////////////////8YGBgA
+        AAAAAAAAAAD/////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////+Hh4cAAAAAAAAAAAD/////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        //////////+3t7cAAAAAAAAAAABoaGj/////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////8ICAgAAAAAAAAI
+        CAj///////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////////////////8YGBgAAAAAAAAAAABoaGj/////////////////////////////
+        //////////////////////////////////////////////////////////////////////////////+H
+        h4cAAAAAAAAAAACfn5////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////////////////////+3t7cQEBAAAAAAAAAAAABoaGj/////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////39/cICAgAAAAAAAAICAj///////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD///////////////////////////////////////////////+3t7cQEBAAAAAA
+        AAAAAABoaGj/////////////////////////////////////////////////////////////////////
+        //////////////////////////9wcHAAAAAAAAAICAifn5//////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////////////////////
+        //////+3t7cQEBAAAAAAAAAAAAAAAABoaGj/////////////////////////////////////////////
+        //////////////////////////////////////+Hh4cAAAAAAAAAAACHh4f/////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        //////////////////////////+3t7cQEBAAAAAAAAAAAAAAAABYWFj39/f/////////////////////
+        //////////////////////////////////////////////////+Hh4cAAAAAAAAAAAAICAj/////////
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        //////////////////////////////////////////////+3t7cgICAAAAAAAAAAAAAAAAAAAABoaGj/
+        //////////////////////////////////////////////////////////////+Hh4cAAAAAAAAAAAAI
+        CAifn5////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD///////////////////////////////////////////////////////////////////+3t7cgICAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAICAifn5////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAD/////////////////////////////////////////////////////////////
+        //////////////+fn58QEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAICAifn5//////////////////////////////////////////////////
+        //////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////////////////////
+        //////////////////////////////////+3t7cgICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICCfn5//////////////////////////////////////
+        //////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAAAAD/////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////8AAAAAAAAAAAD///8AAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////8AAAAAAAAA
+        AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////8AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
+  </data>
+</root>
