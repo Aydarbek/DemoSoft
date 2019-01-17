@@ -1,0 +1,10 @@
+D:\Projects\MindCounter\bin\Debug\MindCounter.exe.config
+D:\Projects\MindCounter\bin\Debug\MindCounter.exe
+D:\Projects\MindCounter\bin\Debug\MindCounter.pdb
+D:\Projects\MindCounter\obj\Debug\MindCounter.csprojResolveAssemblyReference.cache
+D:\Projects\MindCounter\obj\Debug\MindCounter.MainForm.resources
+D:\Projects\MindCounter\obj\Debug\MindCounter.Properties.Resources.resources
+D:\Projects\MindCounter\obj\Debug\MindCounter.csproj.GenerateResource.Cache
+D:\Projects\MindCounter\obj\Debug\MindCounter.exe
+D:\Projects\MindCounter\obj\Debug\MindCounter.pdb
+D:\Projects\MindCounter\obj\Debug\MindCounter.Form_settings.resources
