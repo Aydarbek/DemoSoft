@@ -1,0 +1,9 @@
+D:\Projects\KNB\bin\Debug\KNB.exe.config
+D:\Projects\KNB\bin\Debug\KNB.exe
+D:\Projects\KNB\bin\Debug\KNB.pdb
+D:\Projects\KNB\obj\Debug\KNB.csprojResolveAssemblyReference.cache
+D:\Projects\KNB\obj\Debug\KNB.Properties.Resources.resources
+D:\Projects\KNB\obj\Debug\KNB.csproj.GenerateResource.Cache
+D:\Projects\KNB\obj\Debug\KNB.exe
+D:\Projects\KNB\obj\Debug\KNB.pdb
+D:\Projects\KNB\obj\Debug\KNB.MainForm.resources
